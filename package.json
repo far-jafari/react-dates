@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airbnb/react-dates.git"
+    "url": "git+https://github.com/jafaryfarzaneh/react-dates.git"
   },
   "author": "farzaneh jafari <jafaryfarzaneh@gmail.com>",
   "license": "MIT",
